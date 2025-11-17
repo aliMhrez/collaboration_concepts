@@ -2,8 +2,8 @@ def print_something():
     print("something")
     
 
-def third():
-    print("hello world")
+def third(name):
+    print("hello", name)
 
 def print_anotherthing():
     print("another thing")
