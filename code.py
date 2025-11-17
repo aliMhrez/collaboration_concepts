@@ -3,3 +3,6 @@ def print_something():
     
 def print_anotherthing():
     print("another thing")
+
+def print_yetanotherthing():
+    print()
